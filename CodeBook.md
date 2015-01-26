@@ -1,88 +1,89 @@
-Subject
-Activity
-TimeBodyAccMeanXAxis
-TimeBodyAccMeanYAxis
-TimeBodyAccMeanZAxis
-TimeGravityAccMeanXAxis
-TimeGravityAccMeanYAxis
-TimeGravityAccMeanZAxis
-TimeBodyAccJerkMeanXAxis
-TimeBodyAccJerkMeanYAxis
-TimeBodyAccJerkMeanZAxis
-TimeBodyGyroMeanXAxis
-TimeBodyGyroMeanYAxis
-TimeBodyGyroMeanZAxis
-TimeBodyGyroJerkMeanXAxis
-TimeBodyGyroJerkMeanYAxis
-TimeBodyGyroJerkMeanZAxis
-TimeBodyAccMagMean
-TimeGravityAccMagMean
-TimeBodyAccJerkMagMean
-TimeBodyGyroMagMean
-TimeBodyGyroJerkMagMean
-FreqBodyAccMeanXAxis
-FreqBodyAccMeanYAxis
-FreqBodyAccMeanZAxis
-FreqBodyAccMeanFreqXAxis
-FreqBodyAccMeanFreqYAxis
-FreqBodyAccMeanFreqZAxis
-FreqBodyAccJerkMeanXAxis
-FreqBodyAccJerkMeanYAxis
-FreqBodyAccJerkMeanZAxis
-FreqBodyAccJerkMeanFreqXAxis
-FreqBodyAccJerkMeanFreqYAxis
-FreqBodyAccJerkMeanFreqZAxis
-FreqBodyGyroMeanXAxis
-FreqBodyGyroMeanYAxis
-FreqBodyGyroMeanZAxis
-FreqBodyGyroMeanFreqXAxis
-FreqBodyGyroMeanFreqYAxis
-FreqBodyGyroMeanFreqZAxis
-FreqBodyAccMagMean
-FreqBodyAccMagMeanFreq
-FreqBodyAccJerkMagMean
-FreqBodyAccJerkMagMeanFreq
-FreqBodyGyroMagMean
-FreqBodyGyroMagMeanFreq
-FreqBodyGyroJerkMagMean
-FreqBodyGyroJerkMagMeanFreq
-AngleTimeBodyAccMeanGravity
-AngleTimeBodyAccJerkMeanGravityMean
-AngleTimeBodyGyroMeanGravityMean
-AngleTimeBodyGyroJerkMeanGravityMean
-AngleXAxisGravityMean
-AngleYAxisGravityMean
-AngleZAxisGravityMean
-TimeBodyAccStdXAxis
-TimeBodyAccStdYAxis
-TimeBodyAccStdZAxis
-TimeGravityAccStdXAxis
-TimeGravityAccStdYAxis
-TimeGravityAccStdZAxis
-TimeBodyAccJerkStdXAxis
-TimeBodyAccJerkStdYAxis
-TimeBodyAccJerkStdZAxis
-TimeBodyGyroStdXAxis
-TimeBodyGyroStdYAxis
-TimeBodyGyroStdZAxis
-TimeBodyGyroJerkStdXAxis
-TimeBodyGyroJerkStdYAxis
-TimeBodyGyroJerkStdZAxis
-TimeBodyAccMagStd
-TimeGravityAccMagStd
-TimeBodyAccJerkMagStd
-TimeBodyGyroMagStd
-TimeBodyGyroJerkMagStd
-FreqBodyAccStdXAxis
-FreqBodyAccStdYAxis
-FreqBodyAccStdZAxis
-FreqBodyAccJerkStdXAxis
-FreqBodyAccJerkStdYAxis
-FreqBodyAccJerkStdZAxis
-FreqBodyGyroStdXAxis
-FreqBodyGyroStdYAxis
-FreqBodyGyroStdZAxis
-FreqBodyAccMagStd
-FreqBodyAccJerkMagStd
-FreqBodyGyroMagStd
-FreqBodyGyroJerkMagStd
+Variables in the tiday data set
+1 "Subject"
+2 "Activity"
+3 "TimeBodyAccMeanXAxis"
+4 "TimeBodyAccMeanYAxis"
+5 "TimeBodyAccMeanZAxis"
+6 "TimeGravityAccMeanXAxis"
+7 "TimeGravityAccMeanYAxis"
+8 "TimeGravityAccMeanZAxis"
+9 "TimeBodyAccJerkMeanXAxis"
+10 "TimeBodyAccJerkMeanYAxis"
+11 "TimeBodyAccJerkMeanZAxis"
+12 "TimeBodyGyroMeanXAxis"
+13 "TimeBodyGyroMeanYAxis"
+14 "TimeBodyGyroMeanZAxis"
+15 "TimeBodyGyroJerkMeanXAxis"
+16 "TimeBodyGyroJerkMeanYAxis"
+17 "TimeBodyGyroJerkMeanZAxis"
+18 "TimeBodyAccMagMean"
+19 "TimeGravityAccMagMean"
+20 "TimeBodyAccJerkMagMean"
+21 "TimeBodyGyroMagMean"
+22 "TimeBodyGyroJerkMagMean"
+23 "FreqBodyAccMeanXAxis"
+24 "FreqBodyAccMeanYAxis"
+25 "FreqBodyAccMeanZAxis"
+26 "FreqBodyAccMeanFreqXAxis"
+27 "FreqBodyAccMeanFreqYAxis"
+28 "FreqBodyAccMeanFreqZAxis"
+29 "FreqBodyAccJerkMeanXAxis"
+30 "FreqBodyAccJerkMeanYAxis"
+31 "FreqBodyAccJerkMeanZAxis"
+32 "FreqBodyAccJerkMeanFreqXAxis"
+33 "FreqBodyAccJerkMeanFreqYAxis"
+34 "FreqBodyAccJerkMeanFreqZAxis"
+35 "FreqBodyGyroMeanXAxis"
+36 "FreqBodyGyroMeanYAxis"
+37 "FreqBodyGyroMeanZAxis"
+38 "FreqBodyGyroMeanFreqXAxis"
+39 "FreqBodyGyroMeanFreqYAxis"
+40 "FreqBodyGyroMeanFreqZAxis"
+41 "FreqBodyAccMagMean"
+42 "FreqBodyAccMagMeanFreq"
+43 "FreqBodyAccJerkMagMean"
+44 "FreqBodyAccJerkMagMeanFreq"
+45 "FreqBodyGyroMagMean"
+46 "FreqBodyGyroMagMeanFreq"
+47 "FreqBodyGyroJerkMagMean"
+48 "FreqBodyGyroJerkMagMeanFreq"
+49 "AngleTimeBodyAccMeanGravity"
+50 "AngleTimeBodyAccJerkMeanGravityMean"
+51 "AngleTimeBodyGyroMeanGravityMean"
+52 "AngleTimeBodyGyroJerkMeanGravityMean"
+53 "AngleXAxisGravityMean"
+54 "AngleYAxisGravityMean"
+55 "AngleZAxisGravityMean"
+56 "TimeBodyAccStdXAxis"
+57 "TimeBodyAccStdYAxis"
+58 "TimeBodyAccStdZAxis"
+59 "TimeGravityAccStdXAxis"
+60 "TimeGravityAccStdYAxis"
+61 "TimeGravityAccStdZAxis"
+62 "TimeBodyAccJerkStdXAxis"
+63 "TimeBodyAccJerkStdYAxis"
+64 "TimeBodyAccJerkStdZAxis"
+65 "TimeBodyGyroStdXAxis"
+66 "TimeBodyGyroStdYAxis"
+67 "TimeBodyGyroStdZAxis"
+68 "TimeBodyGyroJerkStdXAxis"
+69 "TimeBodyGyroJerkStdYAxis"
+70 "TimeBodyGyroJerkStdZAxis"
+71 "TimeBodyAccMagStd"
+72 "TimeGravityAccMagStd"
+73 "TimeBodyAccJerkMagStd"
+74 "TimeBodyGyroMagStd"
+75 "TimeBodyGyroJerkMagStd"
+76 "FreqBodyAccStdXAxis"
+77 "FreqBodyAccStdYAxis"
+78 "FreqBodyAccStdZAxis"
+79 "FreqBodyAccJerkStdXAxis"
+80 "FreqBodyAccJerkStdYAxis"
+81 "FreqBodyAccJerkStdZAxis"
+82 "FreqBodyGyroStdXAxis"
+83 "FreqBodyGyroStdYAxis"
+84 "FreqBodyGyroStdZAxis"
+85 "FreqBodyAccMagStd"
+86 "FreqBodyAccJerkMagStd"
+87 "FreqBodyGyroMagStd"
+88 "FreqBodyGyroJerkMagStd"
